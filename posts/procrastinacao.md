@@ -1,11 +1,14 @@
 ---
-title: 'Two Forms of Pre-rendering'
-date: '2020-01-01'
+title: 'Vencendo a procrastinação'
+date: '2020-06-14'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+Use o CherryTree e acredite em você.
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+- **Controle o tempo** através de uma tecnica como pomodoro timer.
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+- **Preserve suas anotações** com algum método como cornell notes, mas em alguma plataforma que você consiga preserver estes arquivos como google drive.
+
+- **Acredite em você** pois a auto estima é essêncial para você se manter animado e cumprir suas metas.
+
+Seguiremos postando mais materias nos próximos dias.
