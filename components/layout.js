@@ -15,7 +15,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Uma empresa nova"
+          content="Quod Erat Demonstrandum"
         />
         <meta
           property="og:image"
